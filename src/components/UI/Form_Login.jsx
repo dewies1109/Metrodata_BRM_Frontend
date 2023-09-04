@@ -18,14 +18,14 @@ const Form_Login = () => {
                     <div>
                         <div class="relative ">
                             <input type="text" id="floating_filled" class="font-inter font-semibold block rounded-md px-4 pb-2.5 pt-5 w-full text-sm text-[#181C32] bg-[#fff] border-2 border-[#E1E3EA] appearance-none focus:outline-none focus:ring-0 focus:border-[#00549B] peer" placeholder=" " />
-                            <label for="floating_filled" class="font-inter font-semibold absolute text-sm text-[#A1A5B7] duration-300 transform -translate-y-4 scale-75 top-4 z-10 origin-[0] left-4 peer-focus:text-[#A1A5B7] peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-4">Email/Username/No.HP</label>
+                            <label for="floating_filled" class="font-inter font-semibold absolute text-sm text-[#A1A5B7] duration-300 transform -translate-y-3 scale-75 top-4 z-10 origin-[0] left-4 peer-focus:text-[#A1A5B7] peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-3">Email/Username/No.HP</label>
                         </div>
                     </div>
 
                     <div>
                         <div class="relative ">
                             <input type="password" id="floating_filled" class="font-inter font-semibold block rounded-md px-4 pb-2.5 pt-5 w-full text-sm text-[#181C32] bg-[#fff] border-2 border-[#E1E3EA] appearance-none focus:outline-none focus:ring-0 focus:border-[#00549B] peer" placeholder=" " />
-                            <label for="floating_filled" class="font-inter font-semibold absolute text-sm text-[#A1A5B7] duration-300 transform -translate-y-4 scale-75 top-4 z-10 origin-[0] left-4 peer-focus:text-[#A1A5B7] peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-4">Kata Sandi</label>
+                            <label for="floating_filled" class="font-inter font-semibold absolute text-sm text-[#A1A5B7] duration-300 transform -translate-y-3 scale-75 top-4 z-10 origin-[0] left-4 peer-focus:text-[#A1A5B7] peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-3">Kata Sandi</label>
                         </div>
                     </div>                    
                 </form>
